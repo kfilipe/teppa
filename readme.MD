@@ -32,3 +32,17 @@ IMPORTANTE
 2º - Instalar o react router dom (v6)
 3º - Instalar o MUI MATERIAL (framework usado para o front)
 4º - Estruturação das pastas.
+
+
+----------RODANDO O PROJETO-------------
+
+1º GIT CLONE
+2º NPM INSTALL (RAIZ DO PROJETO)
+2.1º NPM INSTALL (PASTA CLIENT)
+3º NPM RUN SERVER (PASTA RAIZ)
+3.1º NPM START (PASTA CLIENT)
+
+IPC: NAO ESQUECA DE DA START NO BANCO DE DADOS
+
+-----TESTANDO------
+Faça o cadastro e após faça o login.
