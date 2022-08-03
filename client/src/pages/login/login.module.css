@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #323232;
+    border: none;
+}
+
+.container {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #fff;
+    border-radius: 10px;
+    padding: 25px;
+    text-align: center;
+    border-style: 5px solid;
+    border-color: red;
+}
+
+body {
+    background: #26262e;
+}
+
+label,
+input {
+    display: block;
+    text-align: left;
+    margin-top: 10px
+}
+
+input {
+    border-bottom: 2px solid #323232;
+    padding: 10px;
+    font-size: .9rem;
+    margin-bottom: 40px;
+}
+
+input[type="submit"] {
+    background-color: #E60084;
+    color: #FFF;
+    border: none;
+    border-radius: 20px;
+    height: 40px;
+    width: 340px;
+    cursor: pointer;
+    text-align: center;
+}
+
+input[type="submit"]:hover {
+    color: #26262e;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #ac170d;
+}
+
+input:focus {
+    border-color: #E60084;
+}
+
+#forgotPass {
+    text-align: right;
+}
